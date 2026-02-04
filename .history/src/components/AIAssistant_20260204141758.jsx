@@ -14,7 +14,7 @@ const AIAssistant = () => {
       const res = await axios.post(
         `${BASE_URL}/api/ai-assistant`,
         { message },
-        { withCredentials: true },
+        { withCredentials: true }
       );
       setReply(res.data.reply || "No response from DevBuddy.");
     } catch (err) {
