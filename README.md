@@ -2,7 +2,7 @@
 
 The frontend of DevConnect — a modern web platform that helps developers discover and connect with like-minded devs based on their skills, interests, and projects. Built with React (Vite), Tailwind CSS, and DaisyUI, this interface offers a clean, responsive, and engaging user experience with integrated AI onboarding assistant.
 
-🌐 **Live Project:** [DevConnect](https://DevConnect.rocks/)
+🌐 **Live Project:** [DevConnect](https://devtinder.rocks/)
 
 ---
 
