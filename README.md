@@ -1,8 +1,8 @@
-# DevTinder Frontend 🚀
+# DevConnect Frontend 🚀
 
-The frontend of DevTinder — a modern web platform that helps developers discover and connect with like-minded devs based on their skills, interests, and projects. Built with React (Vite), Tailwind CSS, and DaisyUI, this interface offers a clean, responsive, and engaging user experience with integrated AI onboarding assistant.
+The frontend of DevConnect — a modern web platform that helps developers discover and connect with like-minded devs based on their skills, interests, and projects. Built with React (Vite), Tailwind CSS, and DaisyUI, this interface offers a clean, responsive, and engaging user experience with integrated AI onboarding assistant.
 
-🌐 **Live Project:** [DevTinder](https://devtinder.rocks/)
+🌐 **Live Project:** [DevConnect](https://DevConnect.rocks/)
 
 ---
 
@@ -38,8 +38,8 @@ The frontend of DevTinder — a modern web platform that helps developers discov
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Shams261/DevTinder-frontend.git
-cd DevTinder-frontend
+git clone https://github.com/Shams261/DevConnect-frontend.git
+cd DevConnect-frontend
 ```
 
 ### 2. Install dependencies
@@ -71,7 +71,7 @@ DevBuddy is an integrated AI assistant powered by OpenAI. It helps users with:
 
 ## 🔧 API Endpoints
 
-The frontend interacts with the backend API hosted in the [DevTinder](https://github.com/Shams261/DevTinder). Ensure the backend is running before using the frontend.
+The frontend interacts with the backend API hosted in the [DevConnect](https://github.com/Shams261/DevConnect). Ensure the backend is running before using the frontend.
 
 ## 🤝 Contributing
 
